@@ -36,12 +36,19 @@
 •	GUI Programming -AWT and swing
 •	Database
 •	JDBC
+
+
+
+
 ADVANCED JAVA
 •	Introduction:
 •	Introduction to JakartaEE
 •	Jakarta EE vs Java EE
 •	What is Enterprise application
 •	What is web application
+
+
+
 
 Servlet:
 •	Servlets, Servlet Architecture
@@ -54,15 +61,29 @@ Servlet:
 •	GET vs POST
 •	Request using servlet
 •	Initialisation parameters and Context Parameter in Servlet
+
+
+
+
 Advanced JDBC:
 •	Prepared Statement(insert, update delete select) Brush up
 •	Batch Insert
 •	Batch Update
 •	Callable Statement for calling Procedures and FunctionsSingly Linked List
+
+
+
+
 Request Redirection:
 •	Redirect the request to another server
+
+
+
 Request Dispatching:
 •	Transfer the request within the server
+
+
+
 Basics of JSP:
 •	JSP Introduction
 •	Life cycle of JSP
@@ -70,17 +91,29 @@ Basics of JSP:
 •	JSP Directives
 •	JSP Exception Handling
 •	JSP Action Elements
+
+
+
+
 Session Tracking:
 •	Using hidden fields
 •	using query strings
 •	using cookies
 •	using session api 
 •	session tracking with cookies disabled
+
+
+
+
+
 Java Beans:
 •	Introduction to Java Beans
 •	using Beans
 Introduction to Expression Language:
 •	Expression Language
+
+
+
 Web Services:
 •	Introduction to Web Services
 •	Creating REST Web Services
